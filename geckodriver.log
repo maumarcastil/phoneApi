@@ -1,0 +1,1626 @@
+1598999430616	geckodriver	INFO	Listening on 127.0.0.1:55372
+1598999441853	geckodriver	INFO	Listening on 127.0.0.1:55385
+1598999458767	geckodriver	INFO	Listening on 127.0.0.1:55407
+1598999468683	geckodriver	INFO	Listening on 127.0.0.1:55419
+1598999529649	geckodriver	INFO	Listening on 127.0.0.1:55479
+1598999559152	geckodriver	INFO	Listening on 127.0.0.1:55502
+1598999664138	geckodriver	INFO	Listening on 127.0.0.1:55581
+1598999715563	geckodriver	INFO	Listening on 127.0.0.1:55621
+1598999743903	geckodriver	INFO	Listening on 127.0.0.1:55645
+1599000927678	geckodriver	INFO	Listening on 127.0.0.1:56701
+1599000930940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofile4FEbbu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599000932921	Marionette	INFO	Listening on port 56712
+1599000932975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599000940126	Marionette	INFO	Stopped listening on port 56712
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599001297583	geckodriver	INFO	Listening on 127.0.0.1:57007
+1599001300628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofile3FdMsV"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599001302027	Marionette	INFO	Listening on port 57016
+1599001302160	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 16920, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1599001311336	Marionette	INFO	Stopped listening on port 57016
+1599001409837	geckodriver	INFO	Listening on 127.0.0.1:57102
+1599001412887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilenFTfFR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599001414757	Marionette	INFO	Listening on port 57112
+1599001414930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599001418596	Marionette	INFO	Stopped listening on port 57112
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599001471332	geckodriver	INFO	Listening on 127.0.0.1:57174
+1599001474356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileGSeSOy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599001476241	Marionette	INFO	Listening on port 57191
+1599001476411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599001479158	Marionette	INFO	Stopped listening on port 57191
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599002150405	geckodriver	INFO	Listening on 127.0.0.1:57602
+1599002662790	geckodriver	INFO	Listening on 127.0.0.1:57989
+1599002665883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileqvYifp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599002668854	Marionette	INFO	Listening on port 57999
+1599002669040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599002684428	Marionette	INFO	Stopped listening on port 57999
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599002698416	geckodriver	INFO	Listening on 127.0.0.1:58051
+1599002701469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileRjXyxI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599002703116	Marionette	INFO	Listening on port 58061
+1599002703508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1599002706262	Marionette	INFO	Stopped listening on port 58061
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599002769560	geckodriver	INFO	Listening on 127.0.0.1:58135
+1599002772640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileKp7yCt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599002774348	Marionette	INFO	Listening on port 58147
+1599002774684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599002782800	Marionette	INFO	Stopped listening on port 58147
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599003083431	geckodriver	INFO	Listening on 127.0.0.1:58570
+1599003086492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileqbw8Wl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599003088461	Marionette	INFO	Listening on port 58579
+1599003088541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599003094242	Marionette	INFO	Stopped listening on port 58579
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599003097896	geckodriver	INFO	Listening on 127.0.0.1:58611
+1599003100956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileSyDVs3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599003102850	Marionette	INFO	Listening on port 58623
+1599003102993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599003106323	Marionette	INFO	Stopped listening on port 58623
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599003404092	geckodriver	INFO	Listening on 127.0.0.1:58845
+1599003407144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilewrvuGd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599003408911	Marionette	INFO	Listening on port 58855
+1599003409191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599003762022	Marionette	INFO	Stopped listening on port 58855
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofile1BOHJw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599003642916	Marionette	INFO	Listening on port 59030
+1599003643391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599003687835	Marionette	INFO	Stopped listening on port 59030
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599003735125	geckodriver	INFO	Listening on 127.0.0.1:59128
+1599003738166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilepkfV5e"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599003739906	Marionette	INFO	Listening on port 59137
+1599003740191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599003760677	Marionette	INFO	Stopped listening on port 59137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599003763017	geckodriver	INFO	Listening on 127.0.0.1:59189
+1599003766054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileTghgqZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599003767886	Marionette	INFO	Listening on port 59199
+1599003768083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599003802817	Marionette	INFO	Stopped listening on port 59199
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599005467366	geckodriver	INFO	Listening on 127.0.0.1:60375
+1599005470409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilerloc0e"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599005472181	Marionette	INFO	Listening on port 60387
+1599005472446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599005483377	Marionette	INFO	Stopped listening on port 60387
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofiletE6pOF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599005477229	Marionette	INFO	Listening on port 60425
+1599005477547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599005505135	Marionette	INFO	Stopped listening on port 60425
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599005510520	geckodriver	INFO	Listening on 127.0.0.1:60491
+1599005513587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilej1icma"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599005515302	Marionette	INFO	Listening on port 60501
+1599005515611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599005530007	Marionette	INFO	Stopped listening on port 60501
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599005604184	geckodriver	INFO	Listening on 127.0.0.1:60595
+1599005607240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileg50GTw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599005608976	Marionette	INFO	Listening on port 60606
+1599005609291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1599006183395	Marionette	INFO	Stopped listening on port 60606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599006534590	geckodriver	INFO	Listening on 127.0.0.1:61168
+1599006537616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilejHr9ci"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599006539366	Marionette	INFO	Listening on port 61178
+1599006539635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1599006663274	Marionette	INFO	Stopped listening on port 61178
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599006848786	geckodriver	INFO	Listening on 127.0.0.1:61436
+1599006851810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileA8wjDE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599006853551	Marionette	INFO	Listening on port 61445
+1599006853841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1599007023185	Marionette	INFO	Stopped listening on port 61445
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+#!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599007015082	geckodriver	INFO	Listening on 127.0.0.1:61619
+1599007018093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofile6qkKMv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599007019992	Marionette	INFO	Listening on port 61628
+1599007020141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1599007192106	Marionette	INFO	Stopped listening on port 61628
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599007349545	geckodriver	INFO	Listening on 127.0.0.1:61895
+1599007352618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilegom9oG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599007354405	Marionette	INFO	Listening on port 61905
+1599007354666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599007419343	Marionette	INFO	Stopped listening on port 61905
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emp\\rust_mozprofileq71p2V"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599007376619	Marionette	INFO	Listening on port 61964
+1599007376812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599007381107	Marionette	INFO	Stopped listening on port 61964
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599007417900	geckodriver	INFO	Listening on 127.0.0.1:62022
+1599007420934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileyrpMy7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599007422620	Marionette	INFO	Listening on port 62031
+1599007422969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599007453602	Marionette	INFO	Stopped listening on port 62031599007455830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileg12FAB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599007457671	Marionette	INFO	Listening on port 62100
+1599007457866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599007632597	Marionette	INFO	Stopped listening on port 62101599007634596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileEU5BtS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599007636181	Marionette	INFO	Listening on port 62240
+1599007636636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599007864129	Marionette	INFO	Stopped listening on port 62240
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofile3KCCio"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599007675281	Marionette	INFO	Listening on port 62307
+1599007675683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599007866586	Marionette	INFO	Stopped listening on port 62307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofile3cXFs8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599007733664	Marionette	INFO	Listening on port 62386
+1599007734075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599007867367	Marionette	INFO	Stopped listening on port 62386
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofilem7Sczm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599007758793	Marionette	INFO	Listening on port 62447
+1599007759127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1599008368070	Marionette	INFO	Stopped listening on port 62447
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599008410752	geckodriver	INFO	Listening on 127.0.0.1:62885
+1599008413795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileMMDzpS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599008415333	Marionette	INFO	Listening on port 62894
+1599008415823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599008423987	Marionette	INFO	Stopped listening on port 62894
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599008467209	geckodriver	INFO	Listening on 127.0.0.1:62961
+1599008470290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofile6E9MKA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599008471932	Marionette	INFO	Listening on port 62970
+1599008472326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599008477598	Marionette	INFO	Stopped listening on port 62970
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599008559787	geckodriver	INFO	Listening on 127.0.0.1:63057
+1599008562838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilevQuN8D"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599008564362	Marionette	INFO	Listening on port 63067
+1599008564376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599009192072	Marionette	INFO	Stopped listening on port 63067
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599062791142	geckodriver	INFO	Listening on 127.0.0.1:51517
+1599062794197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileiOJS3Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599062796814	Marionette	INFO	Listening on port 51526
+1599062796845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1599062890003	Marionette	INFO	Stopped listening on port 51521599062890350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileN0HHXQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599062892064	Marionette	INFO	Listening on port 51617
+1599062892371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599062943047	Marionette	INFO	Stopped listening on port 51617
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofileIRt7Am"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599062938477	Marionette	INFO	Listening on port 51689
+1599062938926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599062978257	Marionette	INFO	Stopped listening on port 51689
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofilelbKMQI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599062977779	Marionette	INFO	Listening on port 51759
+1599062978098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599062989644	Marionette	INFO	Stopped listening on port 51759
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599062995868	geckodriver	INFO	Listening on 127.0.0.1:51812
+1599062998941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofile4EXD7P"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599063000595	Marionette	INFO	Listening on port 51822
+1599063000971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599063005237	Marionette	INFO	Stopped listening on port 51822
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599064072362	geckodriver	INFO	Listening on 127.0.0.1:52439
+1599064075397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileypijrW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599064077010	Marionette	INFO	Listening on port 52448
+1599064077421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1599064327487	Marionette	INFO	Stopped listening on port 52448
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599064355498	geckodriver	INFO	Listening on 127.0.0.1:52643
+1599064358577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofile3GDlqO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599064360318	Marionette	INFO	Listening on port 52652
+1599064360613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599064747393	Marionette	INFO	Stopped listening on port 52652
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1599064751888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilekRa0Qb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599064753450	Marionette	INFO	Listening on port 52914
+1599064753928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1012:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1012:5)", "resource://devtools/shared/protocol/Front.js", 323))
+JavaScript warning: https://www.instagram.com/dayanis_merlano.08/, line 278: Script terminated by timeout at:
+r@https://www.instagram.com/dayanis_merlano.08/:278:292
+s@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/0b1095e5df99.js:62:413
+c@https://www.instagram.com/static/bundles/es6/Consumer.js/86511649388a.js:181:311
+n@https://www.instagram.com/static/bundles/es6/Consumer.js/86511649388a.js:181:133
+t@https://www.instagram.com/static/bundles/es6/Consumer.js/86511649388a.js:182:135
+e.initTimeSpentBitArrayLogger/<@https://www.instagram.com/static/bundles/es6/Consumer.js/86511649388a.js:181:733
+inform/<@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/0b1095e5df99.js:86:142
+inform@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/0b1095e5df99.js:86:131
+h@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/0b1095e5df99.js:84:2108
+v@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/97e19cc7aabb.js:31:187
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+1599067780874	Marionette	INFO	Stopped listening on port 52914
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599067790939	geckodriver	INFO	Listening on 127.0.0.1:55251
+1599067793976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileivoPAk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599067795573	Marionette	INFO	Listening on port 55261
+1599067796005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/161bafceb917.js, line 310: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 47ms)
+console.warn: "Failed to enumerate CacheStorage for host https://www.instagram.com: SecurityError: The operation is insecure."
+console.error: "Error sending event: serverWebSocketClosed"
+console.error: (new Error("undefined passed where a value is required", "resource://devtools/shared/protocol/types.js", 115))
+Error: undefined passed where a value is required: identityWrite@resource://devtools/shared/protocol/types.js:115:11
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+webSocketClosed@resource://devtools/server/actors/network-monitor/websocket-actor.js:96:10
+
+console.warn: "Failed to enumerate CacheStorage for host https://www.instagram.com: SecurityError: The operation is insecure."
+console.error: "Task cancelled"
+console.warn: "Failed to enumerate CacheStorage for host https://www.instagram.com: SecurityError: The operation is insecure."
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+1599072087100	Marionette	INFO	Stopped listening on port 55261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599072106306	geckodriver	INFO	Listening on 127.0.0.1:57092
+1599072109441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilebKVGS1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599072111229	Marionette	INFO	Listening on port 57101
+1599072111501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+JavaScript warning: https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js, line 11: Script terminated by timeout at:
+Ee@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:13211
+p@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:1571
+_e@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:13542
+extractEvents@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:97324
+Me@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:14958
+mi@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:116555
+We@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:15583
+Ve@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:16307
+Be@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:15827
+e.unstable_runWithPriority@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:13:3497
+Vt@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:24432
+Fr@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:61397
+Le@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:15269
+
+JavaScript error: resource://devtools/server/actors/stylesheets.js, line 394: TypeError: this.ownerNode is null
+JavaScript error: resource://devtools/server/actors/stylesheets.js, line 394: TypeError: this.ownerNode is null
+JavaScript warning: https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/3ff9966c3ebf.js, line 7: Script terminated by timeout at:
+setItemGuarded@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/3ff9966c3ebf.js:7:857
+$WebStorageMutex2@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/3ff9966c3ebf.js:32:382
+lock@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/3ff9966c3ebf.js:32:587
+restore@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:84:1689
+h@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:84:2090
+v@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/3ff9966c3ebf.js:31:187
+EventListener.handleEvent*e.add@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/3ff9966c3ebf.js:31:147
+setHooks@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:86:1687
+b._initialize@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:84:3472
+@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:84:3524
+c@https://www.instagram.com/explore/pags/beauty/:256:1313
+i@https://www.instagram.com/explore/pags/beauty/:256:864
+r@https://www.instagram.com/explore/pags/beauty/:256:359
+n@https://www.instagram.com/explore/pags/beauty/:256:461
+e.logQexExposure@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:100:605
+_l@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:98:397
+@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:1:2921
+promise callback*@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:1:2871
+c@https://www.instagram.com/explore/pags/beauty/:256:1313
+i@https://www.instagram.com/explore/pags/beauty/:256:864
+r@https://www.instagram.com/explore/pags/beauty/:256:359
+@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:1227:25
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.warn: "fetching stylesheets failed" (new Error("Connection closed, pending request to server0.conn0.child2/styleSheetsActor4, type getStyleSheets failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:18:48\n", "resource://devtools/shared/protocol/Front.js", 77))
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js, line 500: TypeError: this.props is undefined
+1599074241060	Marionette	INFO	Stopped listening on port 57101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599074243218	geckodriver	INFO	Listening on 127.0.0.1:58335
+1599074264748	geckodriver	INFO	Listening on 127.0.0.1:58368
+1599074267821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofile7pMMqR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599074269630	Marionette	INFO	Listening on port 58377
+1599074269841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/3ff9966c3ebf.js, line 32: Script terminated by timeout at:
+lock@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/3ff9966c3ebf.js:32:638
+restore@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:84:1689
+h@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:84:2090
+v@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/3ff9966c3ebf.js:31:187
+
+JavaScript error: resource://devtools/server/actors/stylesheets.js, line 394: TypeError: this.ownerNode is null
+JavaScript error: resource://devtools/server/actors/stylesheets.js, line 394: TypeError: this.ownerNode is null
+JavaScript warning: https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js, line 182: Script terminated by timeout at:
+c@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:182:331
+t@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:182:140
+e.initTimeSpentBitArrayLogger/<@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:181:733
+inform/<@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:86:142
+inform@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:86:131
+h@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:84:2108
+v@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/3ff9966c3ebf.js:31:187
+EventListener.handleEvent*e.add@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/3ff9966c3ebf.js:31:147
+setHooks@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:86:1687
+b._initialize@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:84:3472
+@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:84:3524
+c@https://www.instagram.com/#reactivated:256:1313
+i@https://www.instagram.com/#reactivated:256:864
+r@https://www.instagram.com/#reactivated:256:359
+n@https://www.instagram.com/#reactivated:256:461
+e.logQexExposure@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:100:605
+_l@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:98:397
+@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:1:2921
+promise callback*@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:1:2871
+c@https://www.instagram.com/#reactivated:256:1313
+i@https://www.instagram.com/#reactivated:256:864
+r@https://www.instagram.com/#reactivated:256:359
+@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:1227:25
+
+JavaScript warning: https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js, line 11: Script terminated by timeout at:
+mi@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:116567
+We@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:15583
+Ve@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:16307
+Be@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:15827
+e.unstable_runWithPriority@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:13:3497
+Vt@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:24432
+Fr@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:61397
+Le@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:15269
+EventListener.handleEvent*De@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:15165
+Qe@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:16662
+Xe@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:17916
+Kr@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:66381
+Qr@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:63998
+Hr@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:63825
+Rr@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:60760
+Sr@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:57429
+yl@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:81392
+bl@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:81479
+Nl/<@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:83053
+Dr@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:61501
+Nl@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:83039
+render@https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js:11:116993
+e.timedRender@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js:171:4053
+@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:1:4181
+promise callback*@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:1:4163
+promise callback*@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:1:2871
+c@https://www.instagram.com/specialday_bq/:282:1313
+i@https://www.instagram.com/specialday_bq/:282:864
+r@https://www.instagram.com/specialday_bq/:282:359
+@https://www.instagram.com/static/bundles/es6/Consumer.js/02110e05fc92.js:1227:25
+
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:589:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode481, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode479, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode481, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child2/domnode436, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 285 getMutations
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:589:5)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error sending event: display-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:800:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:459:33
+form@resource://devtools/server/actors/inspector/node.js:262:7
+write@resource://devtools/shared/protocol/types.js:363:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:220:33
+write@resource://devtools/shared/protocol/types.js:220:16
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:670:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+console.error: "Error sending event: scrollable-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:800:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:459:33
+form@resource://devtools/server/actors/inspector/node.js:262:7
+write@resource://devtools/shared/protocol/types.js:363:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:220:33
+write@resource://devtools/shared/protocol/types.js:220:16
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:674:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+InjectTouchInput failure. GetLastError=1460
+InjectTouchInput failure. GetLastError=87
+InjectTouchInput failure. GetLastError=87
+InjectTouchInput failure. GetLastError=87
+InjectTouchInput failure. GetLastError=87
+InjectTouchInput failure. GetLastError=87
+InjectTouchInput failure. GetLastError=87
+InjectTouchInput failure. GetLastError=87
+InjectTouchInput failure. GetLastError=87
+InjectTouchInput failure. GetLastError=87
+InjectTouchInput failure. GetLastError=87
+InjectTouchInput failure. GetLastError=87
+InjectTouchInput failure. GetLastError=1460
+InjectTouchInput failure. GetLastError=87
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:863:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:638:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:863:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:638:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:863:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:638:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:863:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:638:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+console.warn: "fetching stylesheets failed" (new Error("Connection closed, pending request to server0.conn0.child2/styleSheetsActor4, type getStyleSheets failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:18:48\n", "resource://devtools/shared/protocol/Front.js", 77))
+1599075348121	Marionette	INFO	Stopped listening on port 58377
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599076681216	geckodriver	INFO	Listening on 127.0.0.1:60283
+1599076684296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.0 Mobile/15A372 Safari/604.1" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileyohqkh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599076685984	Marionette	INFO	Listening on port 60294
+1599076686321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599076692317	Marionette	INFO	Stopped listening on port 60294
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599076761844	geckodriver	INFO	Listening on 127.0.0.1:60457
+1599077273968	geckodriver	INFO	Listening on 127.0.0.1:61076
+1599077277049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.0 Mobile/15A372 Safari/604.1" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofile7Bv97B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599077278712	Marionette	INFO	Listening on port 61084
+1599077279104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599077284609	Marionette	INFO	Stopped listening on port 61084
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599077466541	geckodriver	INFO	Listening on 127.0.0.1:61316
+1599077469602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileC4bZ8A"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599077471334	Marionette	INFO	Listening on port 61326
+1599077471611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599077565041	Marionette	INFO	Stopped listening on port 61326
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofilegJe2dd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599077501765	Marionette	INFO	Listening on port 61394
+1599077501984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599077563341	Marionette	INFO	Stopped listening on port 61394
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599077747927	geckodriver	INFO	Listening on 127.0.0.1:61651
+1599077750979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofile4JpKY3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599077752705	Marionette	INFO	Listening on port 61661
+1599077753013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1599078549217	Marionette	INFO	Stopped listening on port 61661
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofileKdCCbg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599077996947	Marionette	INFO	Listening on port 61963
+1599077997265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599078550109	Marionette	INFO	Stopped listening on port 61963
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofiletgMemZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599078032728	Marionette	INFO	Listening on port 62043
+1599078033067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599078551169	Marionette	INFO	Stopped listening on port 62043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofiletXFkc0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599078548873	Marionette	INFO	Listening on port 62343
+1599078549169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1599078778892	Marionette	INFO	Stopped listening on port 62343
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilefWMaY8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599078774065	Marionette	INFO	Listening on port 62693
+1599078774396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599078778909	Marionette	INFO	Stopped listening on port 62693
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599078783600	geckodriver	INFO	Listening on 127.0.0.1:62733
+1599078786632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofile3j4JSa"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599078788245	Marionette	INFO	Listening on port 62743
+1599078788667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599078837028	Marionette	INFO	Stopped listening on port 62743
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599100705944	geckodriver	INFO	Listening on 127.0.0.1:64269
+1599100709029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileBVVpQn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599100710998	Marionette	INFO	Listening on port 64277
+1599100711064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:863:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:638:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:863:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:638:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+1599102180627	Marionette	INFO	Stopped listening on port 64277
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofilewcB30C"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599101793574	Marionette	INFO	Listening on port 65169
+1599101793622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to sSourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/db77df4e54d6.js, line 174: NotSupportedError: Operation is not supported
+1599103814025	Marionette	INFO	Stopped listening on port 49159
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599102256224	Marionette	INFO	Listening on port 49316
+1599102256598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599103815692	Marionette	INFO	Stopped listening on port 49316
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofile1WBWSV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599103724823	Marionette	INFO	Listening on port 51232
+1599103725228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599103902643	Marionette	INFO	Stopped listening on port 51232
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\\Local\\Temp\\rust_mozprofilesUuPT9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599103815294	Marionette	INFO	Listening on port 51372
+1599103815657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Polyfills.js/cd50b20312de.js, line 107: Error: Minified exception occurred; use the non-minified dev environment for the full error message and additional helpful warnings.
+JavaScript error: https://www.instagram.com/static/bundJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err1599103933835	Marionette	INFO	Stopped listening on port 51372
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ed for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599103926991	Marionette	INFO	Stopped listening on port 51601599103928449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileUfAUL1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599103930023	Marionette	INFO	Listening on port 51677
+1599103930484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599103972662	Marionette	INFO	Stopped listening on port 51677
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599104015343	geckodriver	INFO	Listening on 127.0.0.1:51846
+1599104018437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileatYIor"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599104020042	Marionette	INFO	Listening on port 51856
+1599104020456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599104046191	Marionette	INFO	Stopped listening on port 51856
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599104969378	geckodriver	INFO	Listening on 127.0.0.1:52196
+1599104972458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilePZBGo6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599104974049	Marionette	INFO	Listening on port 52208
+1599104974495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599105118435	Marionette	INFO	Stopped listening on port 52208
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599170949853	geckodriver	INFO	Listening on 127.0.0.1:57728
+1599170952804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileDQqh7N"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599170955427	Marionette	INFO	Listening on port 57738
+1599170955456	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1599171116735	Marionette	INFO	Stopped listening on port 57738
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599171124921	geckodriver	INFO	Listening on 127.0.0.1:58028
+1599171127969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileqg2jrR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599171129599	Marionette	INFO	Listening on port 58037
+1599171130008	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1599172805917	Marionette	INFO	Stopped listening on port 58037
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599172807464	geckodriver	INFO	Listening on 127.0.0.1:58623
+1599172810517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileFSNYZV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599172812074	Marionette	INFO	Listening on port 58632
+1599172812553	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599172970880	Marionette	INFO	Stopped listening on port 58631599172971216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilexvKvcJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599172972839	Marionette	INFO	Listening on port 58942
+1599172973243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599172973592	Marionette	INFO	Stopped listening on port 58942
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599172989248	geckodriver	INFO	Listening on 127.0.0.1:58999
+1599172992334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofileU6OTnH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599172993883	Marionette	INFO	Listening on port 59007
+1599172994374	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: , line 0: uncaught exception: Object
+1599173564651	Marionette	INFO	Stopped listening on port 59007
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599174128072	geckodriver	INFO	Listening on 127.0.0.1:59426
+1599174131131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMar\\AppData\\Local\\Temp\\rust_mozprofilerrAlGi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599174132934	Marionette	INFO	Listening on port 59435
+1599174133156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1599179516687	Marionette	INFO	Stopped listening on port 59435
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613697479571	geckodriver	INFO	Listening on 127.0.0.1:61806
+1613697482618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMarcy\\AppData\\Local\\Temp\\rust_mozprofileAqetqh"
+1613697494720	geckodriver	INFO	Listening on 127.0.0.1:61874
+1613697497802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\XMarcy\\AppData\\Local\\Temp\\rust_mozprofile5fTFDZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1613697499557	Marionette	INFO	Listening on port 61884
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613697499885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613697499898	Marionette	ERROR	[18] No reply from Marionette:Register
+1613697500812	Marionette	ERROR	[38] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1613697503721	Marionette	INFO	Stopped listening on port 61884
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
