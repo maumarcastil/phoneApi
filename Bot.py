@@ -56,30 +56,25 @@ class Bot():
         i = 0
         brands = Marcas()
         links_brands = list(self.browser.execute_script("return [...document.querySelectorAll('.navigation-list li.item')].map(x => x.lastChild.lastChild.href)"))
-        print("llego aca")
         for x in links_brands:
-            if(i == 2):
-                break
+            print("Ingresando a una nueva marca")
             self.browser.get(x)
             time.sleep(5)
             
-            print("llego aca x2")
             
             ##Get data(NameBrand and logo)
             logo = self.browser.execute_script("return document.querySelector('.h-main .h-left img').src")
             name_brand = self.browser.execute_script("return document.querySelector('.h-main .h-right h1').innerText")
             name_brand = name_brand.replace("Comparar precios de móviles libres de ", "")
             
-            print("llego aca x3")
-            
             ##Create brand
+            print("Creando marca: {}".format(name_brand))
             brand = Marca(name_brand, logo)
-            
-            print("llego aca x4")
-            
+                        
             ##Get url of all devices
             links_devices = list(self.browser.execute_script("return [...document.querySelectorAll('.item.smartphone a')].map(x => x.href)"))
             for y in links_devices:
+                print("Ingresando a un nuevo dispositivo")
                 self.browser.get(y)
                 time.sleep(2)
                 
