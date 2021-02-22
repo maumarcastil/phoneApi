@@ -11923,3 +11923,85 @@ JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 75
 JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
 JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
 JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+1614027957150	geckodriver	INFO	Listening on 127.0.0.1:50537
+1614027960338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ryzen-5\\AppData\\Local\\Temp\\rust_mozprofileYGEiSM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614027965174	Marionette	INFO	Listening on port 50547
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614027965649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614027965665	Marionette	ERROR	[18] No reply from Marionette:Register
+1614027969021	Marionette	INFO	Stopped listening on port 50547
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614028378354	geckodriver	INFO	Listening on 127.0.0.1:51560
+1614028381389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ryzen-5\\AppData\\Local\\Temp\\rust_mozprofileXIWRHm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614028385405	Marionette	INFO	Listening on port 51571
+1614028385545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614028385561	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+1614028427386	Marionette	INFO	Stopped listening on port 51571
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614028485517	geckodriver	INFO	Listening on 127.0.0.1:51758
+1614028488582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ryzen-5\\AppData\\Local\\Temp\\rust_mozprofile35Cnja"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614028491908	Marionette	INFO	Listening on port 51766
+1614028492250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614028492266	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-PJXDQ3, line 756: uncaught exception: [object Object]
+1614028603721	Marionette	INFO	Stopped listening on port 51766
